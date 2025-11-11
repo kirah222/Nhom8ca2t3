@@ -1,5 +1,12 @@
 a
 bc
+<<<<<<< HEAD
 aasdaa
 ad
 bassw
+=======
+
+aasdaa
+ad
+bassw
+>>>>>>> bf94cea (fix condflict)
