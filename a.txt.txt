@@ -1,8 +1,5 @@
 a
 bc
-<<<<<<< HEAD
 aasdaa
-=======
 ad
 bassw
->>>>>>> nhanh1
